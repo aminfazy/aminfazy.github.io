@@ -142,7 +142,7 @@ svg:not(:root) {
     margin: 0;
     padding: 0;
     text-align: center;
-    color: #006699
+    color: #32a883;
 
     li {
 	    padding-left: 10px;
@@ -160,7 +160,7 @@ svg:not(:root) {
     a:hover {
     	text-transform: uppercase;
         color: lighten($base-color,60);
-        font-weight: 100;
+        font-weight: 150;
     }
 }
 
