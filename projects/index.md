@@ -1,5 +1,5 @@
 ---
 layout: post
-title: projects
+title: Projects
 ---
 ## List of Projects Done:

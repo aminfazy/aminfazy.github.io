@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: Teaching
 ---
 
 ## List of Teaching Assingments Undertaken:
