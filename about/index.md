@@ -7,8 +7,8 @@ I am Fazail Amin and I go by the name **"aminfazy"** on all the social media pro
 
 ### Areas of research and expertise:
 
- - Video surveillance 
- - Anomaly detection
- - Object detection
- - Metric learning
- - Content based image retrieval systems
+* Video surveillance 
+* Anomaly detection
+* Object detection
+* Metric learning
+* Content based image retrieval systems
